@@ -1,0 +1,1 @@
+chrome.webNavigation.onCompleted.addListener((e) => chrome.tabs.executeScript(e.tabId, { file : 'src/hijacker.js', allFrames: true }) );
