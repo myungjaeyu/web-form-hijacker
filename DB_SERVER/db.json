@@ -1,70 +1,69 @@
 {
   "data": [
     {
-      "id": 1,
-      "host": "example.com",
-      "login-input-text": "id1234",
-      "login-password-text": "password1234"
-    },
-    {
-      "host": "example.com",
-      "login-input-text": "id1234",
-      "login-password-text": "password1234",
-      "id": 2
-    },
-    {
-      "host": "example.com",
-      "login-input-text": "id1234",
-      "login-password-text": "password1234",
-      "id": 3
-    },
-    {
       "host": "accounts.kakao.com",
-      "email-email-input-email": {
-        "value": "kakao1234",
+      "user_addr": "125.188.154.216",
+      "email_email_input_email": {
+        "value": "example@daum.net",
         "type": "text"
       },
-      "password--password": {
-        "value": "adminpassword1234",
+      "password__password": {
+        "value": "kakao1234password@",
         "type": "password"
       },
-      "id": 4
-    },
-    {
-      "host": "www.naver.com",
-      "id-int focus-id": {
-        "value": "naver1234",
-        "type": "text"
-      },
-      "pw-int focus-pw": {
-        "value": "password1234nave",
-        "type": "password"
-      },
-      "id": 5
-    },
-    {
-      "host": "www.netflix.com",
-      "email-ui-text-input-email": {
-        "value": "netflix1234@gmail.com",
-        "type": "text"
-      },
-      "password-ui-text-input-password": {
-        "value": "password1234netflix",
-        "type": "password"
-      },
-      "id": 6
+      "id": 1
     },
     {
       "host": "www.facebook.com",
-      "email-inputtext-email": {
-        "value": "facebook123@gmail.com",
+      "email_inputtext_email": {
+        "value": "facebook123@gamil.com",
         "type": "email"
       },
-      "pass-inputtext-pass": {
-        "value": "pass1234facebook",
+      "user_addr": "125.188.154.216",
+      "pass_inputtext_pass": {
+        "value": "facebook1234pass",
         "type": "password"
       },
-      "id": 7
+      "id": 2
+    },
+    {
+      "host": "www.netflix.com",
+      "email_ui-text-input_email": {
+        "value": "netflix@gmail.com",
+        "type": "text"
+      },
+      "user_addr": "125.188.154.216",
+      "password_ui-text-input_password": {
+        "value": "netflex1234@password",
+        "type": "password"
+      },
+      "id": 3
+    },
+    {
+      "host": "www.naver.com",
+      "id_int focus_id": {
+        "value": "naver1234",
+        "type": "text"
+      },
+      "pw_int focus_pw": {
+        "value": "naver1234passwor",
+        "type": "password"
+      },
+      "user_addr": "125.188.154.216",
+      "id": 4
+    },
+    {
+      "host": "store.pinkfong.com",
+      "user_addr": "125.188.154.216",
+      "password_validate valid_id_password": {
+        "value": "pinkfong123password",
+        "type": "password"
+      },
+      "email_validate valid_id_email": {
+        "value": "pinkfong123@gamil.com",
+        "type": "email"
+      },
+      "id": 5
     }
   ]
 }
