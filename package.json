@@ -1,8 +1,8 @@
 {
   "name": "web-form-hijacker",
-  "version": "1.0.0",
-  "description": "",
-  "main": "hijacker.js",
+  "version": "1.0.6",
+  "description": "form hijacking chrome extension",
+  "main": "src/hijacker.js",
   "scripts": {
     "server": "json-server --watch DB_SERVER/db.json --port 7777"
   },
