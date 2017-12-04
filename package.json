@@ -1,0 +1,15 @@
+{
+  "name": "web-form-hijacker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hijacker.js",
+  "scripts": {
+    "server": "json-server --watch DB_SERVER/db.json --port 7777"
+  },
+  "keywords": [],
+  "author": "u4bi <rootcode10@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.12.1"
+  }
+}
