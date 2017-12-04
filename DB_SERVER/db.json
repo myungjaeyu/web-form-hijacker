@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "host": "example.com",
+      "login-input-text": "id1234",
+      "login-password-text": "password1234"
+    },
+    {
+      "host": "example.com",
+      "login-input-text": "id1234",
+      "login-password-text": "password1234",
+      "id": 2
+    },
+    {
+      "host": "example.com",
+      "login-input-text": "id1234",
+      "login-password-text": "password1234",
+      "id": 3
+    },
+    {
+      "host": "accounts.kakao.com",
+      "email-email-input-email": {
+        "value": "kakao1234",
+        "type": "text"
+      },
+      "password--password": {
+        "value": "adminpassword1234",
+        "type": "password"
+      },
+      "id": 4
+    },
+    {
+      "host": "www.naver.com",
+      "id-int focus-id": {
+        "value": "naver1234",
+        "type": "text"
+      },
+      "pw-int focus-pw": {
+        "value": "password1234nave",
+        "type": "password"
+      },
+      "id": 5
+    },
+    {
+      "host": "www.netflix.com",
+      "email-ui-text-input-email": {
+        "value": "netflix1234@gmail.com",
+        "type": "text"
+      },
+      "password-ui-text-input-password": {
+        "value": "password1234netflix",
+        "type": "password"
+      },
+      "id": 6
+    },
+    {
+      "host": "www.facebook.com",
+      "email-inputtext-email": {
+        "value": "facebook123@gmail.com",
+        "type": "email"
+      },
+      "pass-inputtext-pass": {
+        "value": "pass1234facebook",
+        "type": "password"
+      },
+      "id": 7
+    }
+  ]
+}
